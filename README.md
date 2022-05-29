@@ -1,7 +1,7 @@
-# MS Engage-2022: Customer Identification and Product Count Keeper
+# Scale-Up: Customer Identification and Product Count Keeper
 
 ## Description
-Customer Identification and Product Count Keeper:
+Scale-Up:
 This project is made for enhancing the customer experience in retail stores, malls and small shops, for better management and sales. 
 In this project there are two separate modules:
 1) Customer Face Recognition: This module deals with identifying a customer entering into a store and matching with database. Attendees will have access to the details of customer with budget slab and previous purchase record. Also for new customers, attendees can add the details with just some clicks.
