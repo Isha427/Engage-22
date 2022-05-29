@@ -17,11 +17,11 @@ Using this product at retail stores will help store management to build a better
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(4).png" height="350px" width="700px"/>
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(3).png" height="350px" width="700px"/>
-<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(5).png" height="350px" width="700px"/> -->
-<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(2).png" height="350px" width="700px"/> -->
-<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(6).png" height="350px" width="700px"/> -->
+<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(4).png" height="350px" width="700px"/> -->
+<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(3).png" height="350px" width="700px"/> -->
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(5).png" height="350px" width="700px"/>
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(2).png" height="350px" width="700px"/>
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(6).png" height="350px" width="700px"/>
   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(1).png" height="350px" width="700px"/>
 </p>
 
