@@ -15,7 +15,7 @@ In this project there are two separate modules:
 
 ## WorkFlow
 <p align="center">
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Microsoft%20Engage%20-2022%20WorkFlow.png" height="350px" width="700px"/>
+  <img src="https://github.com/Isha427/Engage-22/blob/main/ScaleUp%20WorkFlow.png" height="350px" width="700px"/>
 </p>
 
 ## Screenshots
