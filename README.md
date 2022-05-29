@@ -30,9 +30,13 @@ Download YoloV3.weights: [Click here](https://drive.google.com/file/d/10VNTJj-Yn
 Install all the required dependencies using [ pip install -r requirements.txt ] in terminal<br>
 Import engage.sql in the MySQL server from repository and run Apache and MySQL server<br>
 
-## Dependencies
-1) For Customer Identification module:<br>flask<br>opencv-python<br>certifi<br>chardet<br>click<br>cmake<br>decorator<br>dlib<br>face-recognition<br>face-recognition-models<br>idna<br>imageio<br>imageio-ffmpeg<br>moviepy<br>numpy<br>opencv-python<br>Pillow<br>proglog<br>requests<br>tqdm<br>urllib3<br>wincertstore<br><br>
-2) For Product Counter:<br>flask<br>cv2<br>numpy<br>mysql.connector<br>yolov3.weights<br>yolo2.cfg<br>
+## Technologies Used
+1) OpenCV 
+2) YoloV3
+3) MySQL
+4) PHP
+5) Flask
+6) Bootstrap
 
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
