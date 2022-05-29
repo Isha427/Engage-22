@@ -27,5 +27,5 @@ python ko run php kko run
 2) For Product Counter:<br>flask<br>cv2<br>numpy<br>mysql.connector<br>yolov3.weights<br>yolo2.cfg<br>
 
 ## Project Demo
-Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)
+Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
 Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
