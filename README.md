@@ -37,7 +37,7 @@ In this project there are two separate modules:
   <li>Import engage.sql in the MySQL server from repository and run Apache and MySQL server</li>
   <li>Run index.php
   <li>Run app.py from Components/face_recognition for customer recognition module</li>
-  <li>For object recognition stop app.py using ctrl+C in terminal and run Real time object count (YOLOV3).py Components/objectDetection</li>
+  <li>For object recognition stop app.py using ctrl+C in terminal and run Real time object count (YOLOV3).py from Components/objectDetection</li>
  </ul>
 
 ## Technologies Used
