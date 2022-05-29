@@ -14,9 +14,13 @@ Using this product at retail stores will help store management to build a better
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/utkrishta24/test-card/blob/main/image.png" height="350px" width="700px"/>
-  <img src="https://github.com/utkrishta24/test-card/blob/main/image.png" height="350px" width="700px"/>
-  <img src="https://github.com/utkrishta24/test-card/blob/main/image.png" height="350px" width="700px"/>
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(4).png" height="350px" width="700px"/>
+    <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(3).png" height="350px" width="700px"/>
+    <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(5).png" height="350px" width="700px"/>
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(2).png" height="350px" width="700px"/>
+    <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(6).png" height="350px" width="700px"/>
+    <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(1).png" height="350px" width="700px"/>
+
 </p>
 ## Installation
 yolo drive pr
@@ -29,8 +33,4 @@ python ko run php kko run
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
 Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-## Work Flow
 
-<p align="center">
-  <img src="(https://github.com/Isha427/Engage-22/blob/main/Microsoft%20Engage%20-2022%20WorkFlow.png)" height="400px" width="800px"/>
- </p>
