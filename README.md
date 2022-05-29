@@ -29,3 +29,8 @@ python ko run php kko run
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
 Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+## Work Flow
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1-yO-turoUrb0zOJtXNMnR__I2Rf0sJrT/view?usp=sharing" height="350px" width="700px"/>
+ </p>
