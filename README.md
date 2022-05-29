@@ -13,6 +13,10 @@ In this project there are two separate modules:
 3) Customers will have their shopping done efficiently in time and this will build a sense of trust between retails and customers. 
 4) Also the product count keeper can help the staff to manage their stocks while helping the management in reducing man-power needed to keep counts and maintain the stocks. 
 
+## WorkFlow
+<p align="center">
+  <img src="https://github.com/Isha427/Engage-22/blob/main/Microsoft%20Engage%20-2022%20WorkFlow.png" height="350px" width="700px"/>
+</p>
 
 ## Screenshots
 <p align="center">
@@ -48,7 +52,4 @@ In this project there are two separate modules:
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
 Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-## WorkFlow:
-<p align="center">
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Microsoft%20Engage%20-2022%20WorkFlow.png" height="350px" width="700px"/>
-</p>
+
