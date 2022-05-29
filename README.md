@@ -32,5 +32,5 @@ Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ
 ## Work Flow
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1-yO-turoUrb0zOJtXNMnR__I2Rf0sJrT/view?usp=sharing" height="350px" width="700px"/>
+  <img src="(https://github.com/Isha427/Engage-22/blob/main/Microsoft%20Engage%20-2022%20WorkFlow.png)" height="350px" width="700px"/>
  </p>
