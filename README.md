@@ -27,8 +27,8 @@ Using this product at retail stores will help store management to build a better
 
 ## Installation
 Download YoloV3.weights: [Click here](https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing)<br>
-baki sari dependicies dalo
-python ko run php kko run
+Install all the required dependencies using [ pip install -r requirements.txt ] in terminal<br>
+Import engage.sql in the MySQL server from repository and run Apache and MySQL server<br>
 
 ## Dependencies
 1) For Customer Identification module:<br>flask<br>opencv-python<br>certifi<br>chardet<br>click<br>cmake<br>decorator<br>dlib<br>face-recognition<br>face-recognition-models<br>idna<br>imageio<br>imageio-ffmpeg<br>moviepy<br>numpy<br>opencv-python<br>Pillow<br>proglog<br>requests<br>tqdm<br>urllib3<br>wincertstore<br><br>
