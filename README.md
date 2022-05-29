@@ -9,10 +9,10 @@ In this project there are two separate modules:
 Using this product at retail stores will help store management to build a better relationship with their customers by knowing their purchase history and inclination towards premium and non-premium brands.
 
 ## Applications and Uses
-1.With the help of this product, retail stores can keep track of customers behaviour and interests. 
-2. Attendees can provide a personalised shopping experience for the customers, by knowing their names, budget slab and previous purchase records.
-3. 3. Customers will have their shopping done efficiently in time and this will build a sense of trust between retails and customers.
-4. 4 Also the product count keeper can help the staff to manage their stocks while helping the management in reducing man-power needed to keep counts and maintain the stocks. 
+1)With the help of this product, retail stores can keep track of customers behaviour and interests. 
+2) Attendees can provide a personalised shopping experience for the customers, by knowing their names, budget slab and previous purchase records.
+3) Customers will have their shopping done efficiently in time and this will build a sense of trust between retails and customers.
+4) Also the product count keeper can help the staff to manage their stocks while helping the management in reducing man-power needed to keep counts and maintain the stocks. 
 
 
 ## Screenshots
