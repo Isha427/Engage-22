@@ -28,7 +28,7 @@ Using this product at retail stores will help store management to build a better
 ## Installation
 <ul>
   <li>Clone repo using <code>git clone https://github.com/Isha427/Engage-22.git</code></li>
-  <li>Download YoloV3.weights: <a href"https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing
+  <li>Download YoloV3.weights: <a href="https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing
     <br>in Components/objectDetection in the cloned repo">Click here</a></li>
   <li>Install all the required dependencies using <code> pip install -r requirements.txt</code> in terminal</li>
   <li>Import engage.sql in the MySQL server from repository and run Apache and MySQL server</li>
