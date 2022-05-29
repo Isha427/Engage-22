@@ -28,4 +28,4 @@ python ko run php kko run
 
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)
-Presentation Link: [Click here]([https://youtu.be/hT56aPa_r18](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
