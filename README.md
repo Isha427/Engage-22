@@ -4,8 +4,8 @@
 Scale-Up:
 This project is made for enhancing the customer experience in retail stores, malls and small shops, for better management and sales. 
 In this project there are two separate modules:
-1) <b>Customer Face Recognition:<b> This module deals with identifying a customer entering into a store and matching with database. Attendees will have access to the details of customer with budget slab and previous purchase record. Also for new customers, attendees can add the details with just some clicks.
-2) <b>Product Counter for Shelves:<b> Product counter uses CCTV for counting products and displaying at the screens of attendees so that store's manangent can fill their stocks effectively.
+1) <b>Customer Face Recognition:</b> This module deals with identifying a customer entering into a store and matching with database. Attendees will have access to the details of customer with budget slab and previous purchase record. Also for new customers, attendees can add the details with just some clicks.
+2) <b>Product Counter for Shelves:</b> Product counter uses CCTV for counting products and displaying at the screens of attendees so that store's manangent can fill their stocks effectively.
 Using this product at retail stores will help store management to build a better relationship with their customers by knowing their purchase history and inclination towards premium and non-premium brands.
 
 ## Applications and Uses
