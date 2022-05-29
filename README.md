@@ -16,16 +16,17 @@ Using this product at retail stores will help store management to build a better
 <p align="center">
   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(4).png" height="350px" width="700px"/>
   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(3).png" height="350px" width="700px"/>
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(5).png" height="350px" width="700px"/>
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(2).png" height="350px" width="700px"/>
-  <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(6).png" height="350px" width="700px"/>
+<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(5).png" height="350px" width="700px"/> -->
+<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(2).png" height="350px" width="700px"/> -->
+<!--   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(6).png" height="350px" width="700px"/> -->
   <img src="https://github.com/Isha427/Engage-22/blob/main/Screenshots/Screenshot%20(1).png" height="350px" width="700px"/>
 </p>
+
 ## Installation
-yolo drive pr
-Download YoloV3.weights: [Click here](https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing)
+Download YoloV3.weights: [Click here](https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing)<br>
 baki sari dependicies dalo
 python ko run php kko run
+
 ## Dependencies
 1) For Customer Identification module:<br>flask<br>opencv-python<br>certifi<br>chardet<br>click<br>cmake<br>decorator<br>dlib<br>face-recognition<br>face-recognition-models<br>idna<br>imageio<br>imageio-ffmpeg<br>moviepy<br>numpy<br>opencv-python<br>Pillow<br>proglog<br>requests<br>tqdm<br>urllib3<br>wincertstore<br><br>
 2) For Product Counter:<br>flask<br>cv2<br>numpy<br>mysql.connector<br>yolov3.weights<br>yolo2.cfg<br>
@@ -33,5 +34,3 @@ python ko run php kko run
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
 Presentation Link: [Click here](https://www.canva.com/design/DAFCF-d_q2c/oW9p7JQ-T7kGziVwUoYcBA/view?utm_content=DAFCF-d_q2c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-https://drive.google.com/file/d/10VNTJj-YnH-h76-FG3xL_BjNi8Sb_bzU/view?usp=sharing
