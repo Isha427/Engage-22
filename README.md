@@ -5,7 +5,7 @@
 This project is made for enhancing the customer experience in retail stores, malls and small shops, for better management and sales. 
 In this project there are two separate modules:
 1) <b>Customer Face Recognition:</b> This module deals with identifying a customer entering into a store and matching with database. Attendees will have access to the details of customer with budget slab ,previous purchase record,preferences.<br><b>Attendees can also edit/change details of old customer with one click in real time if they want to add on something , also they can add some additional detail on the basis of their personal experience with that particular customer , so that next time that customer can be served better</b>.<br> Also for new customers, attendees can add the details with just some clicks.
-2)<b> Using this product at retail stores will help store management to build a better relationship with their customers by knowing their purchase history and inclination towards premium and non-premium brands.</b>
+<b><br> Using this product at retail stores will help store management to build a better relationship with their customers by knowing their purchase history and inclination towards premium and non-premium brands.</b>
 3) <b>Product Recognition and Counter:</b> Product counter uses CCTV for counting products and displaying at the screens of attendees so that store's manangent can fill their stocks effectively. It can help in maintaing stocks on time. <b>Stores will require less man-power for keeping counts</b>. It will stores to keep tracks and set trends for their best selling products.
 
 ## Applications and Uses
