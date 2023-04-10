@@ -51,7 +51,7 @@ In this project there are two separate modules:
 
 ## Agile Methodology
 <p align="center">
-  <img src="https://github.com/Isha427/Engage-22/blob/main/ScaleUp%20Methodology.png" height="450px" width="700px"/>
+  <img src="https://github.com/utkrishta24/RetailStore/blob/main/ScaleUp%20Methodology.png" height="450px" width="700px"/>
 </p>
 
 
