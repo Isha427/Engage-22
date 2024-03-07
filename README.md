@@ -49,10 +49,7 @@ In this project there are two separate modules:
 5) Flask
 6) Bootstrap
 
-## Agile Methodology
-<p align="center">
-  <img src="https://github.com/Isha427/Engage-22/blob/main/ScaleUp%20Methodology.png" height="450px" width="700px"/>
-</p>
+
 
 ## Project Demo
 Youtube Demo Link: [Click here](https://youtu.be/hT56aPa_r18)<br>
